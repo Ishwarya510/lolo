@@ -1,0 +1,16 @@
+.par{
+    padding: 10px;
+    margin: 10px;
+    margin: auto;
+    border: 2px dashed black;
+    border-radius: 10px;
+    width: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    
+}
+.p1{
+    display: flex;
+    justify-content: center;
+
+}
